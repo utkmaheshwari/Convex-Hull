@@ -1,0 +1,20 @@
+Input Size: 100
+Convex Hull SIze: 100
+Execution Time: 0.001
+
+Input Size: 1000
+Convex Hull SIze: 1000
+Execution Time: 0.054
+
+Input Size: 2000
+Convex Hull SIze: 2000
+Execution Time: 0.08
+
+Input Size: 5000
+Convex Hull SIze: 5000
+Execution Time: 0.499
+
+Input Size: 10000
+Convex Hull SIze: 10000
+Execution Time: 1.891
+
